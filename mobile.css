@@ -1,0 +1,12 @@
+@media(max-width: 600px){
+  .productos, .partwo, .productos-tres{
+      display: inherit;
+      height: auto;
+  }
+  .product, .second-product, .product-tres{
+      margin-top: auto;
+  }
+  .main-section, .section-tree{
+      padding: 4%;
+  }
+}
